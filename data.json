@@ -85,15 +85,6 @@
             ],
             "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
         },
-	{
-  		"name": "validator.js",
-  		"link": "https://github.com/validatorjs/validator.js",
-  		"label": "good first issue",
-  		"technologies": [
-			"JavaScript"
-		],
-  		"description": "Widely‑used string validation and sanitising library for Node and the browser."
-	}
         {
             "name": "Godot Engine",
             "link": "https://github.com/godotengine/godot",

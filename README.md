@@ -169,6 +169,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [iD](https://github.com/openstreetmap/iD) _(label: new contributor opportunity)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
+- [validator.js](https://github.com/validatorjs/validator.js) _(label: easy-pick)_ <br> Widely‑used string validation and sanitising library for Node and the browser.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
